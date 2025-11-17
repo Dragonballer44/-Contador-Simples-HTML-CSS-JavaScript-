@@ -1,0 +1,29 @@
+#countlabel{
+    font-size: 10em;
+    display: block;
+    text-align: center;
+}
+
+#btnconteiner{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 15px;
+    font-size: 1em;
+    color: white;
+    background-color: rgb(92, 134, 232);
+    border-radius: 10px;
+}
+
+.buttons:hover{
+    background-color: rgb(70, 104, 202);
+}
+
+.box{
+    width: 310px;
+    height: 450px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);;
+    margin: 0 auto;
+}
